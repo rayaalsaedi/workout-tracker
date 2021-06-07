@@ -11,4 +11,10 @@ This is a workout tracker application that allows users to view create and track
 
 # Deployed links:
 
+https://afternoon-waters-53770.herokuapp.com/
+
+https://github.com/rayaalsaedi/workout-tracker
+
 # Preview of the app:
+
+![Screenshot of Workout Tracker](./Capture.png)
